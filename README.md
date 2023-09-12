@@ -1,16 +1,13 @@
-### Hi there 👋
+### Boas vindas ao meu perfil 💙
 
-<!--
-**marcosantonio444/marcosantonio444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é marcos antonio
 
-Here are some ideas to get you started:
+- Estou estudando na [alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem javascript
+- Utilizo esse espaço para organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Voce pode entrar em contato comigo 📫
+
+ Morais.almeida.marcos@escola.pr.gov.br
+
+ ![](https://media.tenor.com/mCiM7CmGGI4AAAAC/naruto.gif)
